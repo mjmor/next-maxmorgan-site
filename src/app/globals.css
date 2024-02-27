@@ -34,9 +34,9 @@ body {
 
 @layer base {
   h1 {
-    @apply text-3xl font-black;
+    @apply text-5xl font-black;
   }
   h2 {
-    @apply text-2xl;
+    @apply text-4xl;
   }
 }
